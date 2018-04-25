@@ -1,3 +1,5 @@
 /node_modules/
 /test/
 /build/
+/src/app.jsx
+/src/index.jsx

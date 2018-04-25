@@ -2,7 +2,7 @@
   "name": "react-proptypes-proxy",
   "version": "0.0.1",
   "description": "wrap React with React.PropTypes to make migration to react 16 easier",
-  "main": "dist/react-proptypes-proxy.js",
+  "main": "dist/react-proptypes-proxy.min.js",
   "scripts": {
     "build": "NODE_ENV=production ./node_modules/.bin/webpack -p",
     "start": "./node_modules/.bin/run-p dev:server dev:client build",
